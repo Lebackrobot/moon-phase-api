@@ -8,7 +8,6 @@ Você poderá estar consumindo a api batendo nos seguintes endpoints:
 
 | **GET** | **http://localhost:4000/noauth/moon-phase** |
 | --- | --- |
-| **GET** | **https://lebackrobot.github.io/moon-phase** |
 
 A query esperada é: **date=yyyy-mm-dd**
 
